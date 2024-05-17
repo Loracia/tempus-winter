@@ -32,3 +32,13 @@ svg * {
 .menu-separator {
 	margin: var(--size-2-1) calc(var(--size-2-1) * -1);
 }
+
+.theme-dark {
+  --background-primary: #202427;
+  --background-secondary: #2a2e38;
+}
+
+.theme-light {
+  --background-primary: #91959b;
+  --background-secondary: #8da3b8;
+}
